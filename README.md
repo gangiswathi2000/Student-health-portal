@@ -1,7 +1,7 @@
 🩺 OSU Student Health Portal — Redesign
 
 This is a fork of a collaborative Human-Computer Interaction (HCI) project aimed at redesigning the OSU Student Health Portal for improved usability, accessibility, and efficiency.  
-**Original Repository:** [nick3948/Student-health-portal]
+**Original Repository:** [nick3948/Student-health-portal] (https://github.com/nick3948/Student-health-portal)
 
 Course: CS 565 – Human-Computer Interaction
 Project Goal: To redesign the OSU student health portal for a smoother, more intuitive and stress-free experience.
